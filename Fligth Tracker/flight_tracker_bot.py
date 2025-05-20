@@ -11,8 +11,8 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
 # === CONFIGURATION ===
-EMAIL_ADDRESS = #""
-EMAIL_PASSWORD = #""
+EMAIL_ADDRESS = #"your email address" error is normal 
+EMAIL_PASSWORD = #"your third party app password in google account" error is normal
 TL_ALERT_THRESHOLD = 47000
 
 # === ChromeDriver Setup ===
