@@ -11,8 +11,8 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
 # === CONFIGURATION ===
-EMAIL_ADDRESS = "ygtdalkilic@gmail.com"
-EMAIL_PASSWORD = "hrns wsei hudj ydly"
+EMAIL_ADDRESS = #""
+EMAIL_PASSWORD = #""
 TL_ALERT_THRESHOLD = 47000
 
 # === ChromeDriver Setup ===
