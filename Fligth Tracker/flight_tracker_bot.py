@@ -16,7 +16,7 @@ EMAIL_PASSWORD = #"your third party app password in google account" error is nor
 TL_ALERT_THRESHOLD = 47000
 
 # === ChromeDriver Setup ===
-service = Service(r"C:\Users\ygtda\Downloads\Fligth Tracker\chromedriver.exe")
+#service = Service(r"C:\path\to\chromedriver.exe")  # Update with your path
 options = Options()
 options.add_argument("--window-size=1920,1080")
 # options.add_argument("--headless")  # Uncomment to run without opening browser
